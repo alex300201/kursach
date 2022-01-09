@@ -1,0 +1,13 @@
+/Users/alex/Projects/forNik/forNik/bin/Debug/netcoreapp3.1/forNik.deps.json
+/Users/alex/Projects/forNik/forNik/bin/Debug/netcoreapp3.1/forNik.runtimeconfig.json
+/Users/alex/Projects/forNik/forNik/bin/Debug/netcoreapp3.1/forNik.runtimeconfig.dev.json
+/Users/alex/Projects/forNik/forNik/bin/Debug/netcoreapp3.1/forNik.dll
+/Users/alex/Projects/forNik/forNik/bin/Debug/netcoreapp3.1/forNik.pdb
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.csproj.AssemblyReference.cache
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.AssemblyInfoInputs.cache
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.AssemblyInfo.cs
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.dll
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.pdb
+/Users/alex/Projects/forNik/forNik/obj/Debug/netcoreapp3.1/forNik.genruntimeconfig.cache

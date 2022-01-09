@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{63500C6A-6E92-4BF4-B810-2B94CC1367B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="forNik/Program.cs">
+    <Files>
+      <File FileName="forNik/Program.cs" Line="11" Column="97" />
+      <File FileName="forNik/Crypto.cs" Line="1" Column="1" />
+      <File FileName="forNik/EmptyCSharpFile.txt" />
+      <File FileName="forNik/EmptyClass.cs" Line="23" Column="19" />
+      <File FileName="forNik/2.txt" Line="1" Column="3" />
+      <File FileName="forNik/AppView.cs" Line="1" Column="1" />
+      <File FileName="forNik/1.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="forNik" expanded="True">
+            <Node name="forNik" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.forNik PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
